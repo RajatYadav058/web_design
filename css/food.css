@@ -1,0 +1,213 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    background-color: rgb(243, 249, 250);
+    width: 100%;
+    height: 50px;
+    border: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30px;
+    position: fixed;
+}
+.menu a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: #ff2b85;
+    padding: 0 10px;
+    text-transform: uppercase;
+}
+.banner{
+    background: url(../image/food\ panda\ image.jpeg);
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    padding-top: 130px 200px;
+}
+.banner h1{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    text-transform: uppercase;
+    padding-top: 250px;
+}
+.banner input{
+    width: 550px;
+    height: 40px;
+    font-size: 17px;
+    background: #000000c4;
+    border: none;
+    outline: none;
+    border-radius: 15px;
+    text-transform: uppercase;
+    color: white;
+    box-shadow: 1px 3px 3px blue;
+    text-align: center;
+}
+.news{
+    background-color: #000000c4;
+    width: 100%;
+    height: 60px;
+    
+}
+.news marquee{
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 10px;
+    text-transform: uppercase;
+}
+.about{
+    width: 100%;
+    padding-top: 30px;
+    text-align: center;
+}    
+.about h2{
+    font-size: 30px;
+    text-transform: uppercase;
+    word-spacing: 3px;
+    letter-spacing: 2px;
+    color: #ff2b85;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.about p{
+    font-size: 20px;
+    word-spacing: 3px;
+    letter-spacing: 2px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 20px;
+
+}
+.about button{
+    background: #ff2b85;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 116px;
+    height: 24px;
+    width: 114px;
+    margin: 12px;
+    margin-bottom: 50px;
+}
+.press{
+    background: url(../image/food\ panda\ 2.jpg);
+    width: 100%;
+    height: 450px;
+    background-position: center;
+    background-size: cover;
+    padding: 130px ;
+    text-align: center;
+    margin-bottom: 65px;
+}
+.press h2{
+    font-size: 40px;
+    color: #ff2b85;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+.press p{ 
+    font-size: 20px;
+    word-spacing: 3px;
+    color: black;
+    letter-spacing: 2px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 20px;
+}
+.press button{
+    background: #ff2b85;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 116px;
+    height: 24px;
+    width: 114px;
+    margin: 12px;
+    margin-bottom: 25px;
+
+}
+
+.team{
+    background: url(../image/fp\ 3.jpg);
+    width: 100%;
+    height: 450px;
+    background-position: center;
+    background-size: cover;
+    padding: 130px 200px;
+    text-align: center;
+    margin-bottom: 65px;
+    
+}
+.team h2{
+    font-size: 40px;
+    color:#ff2b85 ;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+.team p{
+    font-size: 20px;
+    word-spacing: 3px;
+    color: black;
+    letter-spacing: 2px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 20px;
+}
+.team button{
+    background: #ff2b85;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 116px;
+    height: 24px;
+    width: 114px;
+    margin: 12px;
+}
+.ContactUs{
+    background: url(../image/fp4.jpg);
+    width: 100%;
+    height: 450px;
+    background-position: center;
+    background-size: cover;
+    padding: 130px 200px;
+    text-align: center;
+    color: white;
+    margin-bottom: 65px;
+}
+.ContactUs h2{
+    font-size: 40px;
+    color:#ff2b85 ;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+.ContactUs p{
+    font-size: 20px;
+    word-spacing: 3px;
+    color: black;
+    letter-spacing: 2px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 20px;
+}
+.ContactUs button{
+    background: #ff2b85;
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 116px;
+    height: 24px;
+    width: 114px;
+    margin: 12px;
+}
+footer{
+    background: black;
+    width: 100%;
+    height: 400px;
+
+}
+
+

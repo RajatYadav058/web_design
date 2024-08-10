@@ -1,0 +1,151 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    background-color: #e67a00;
+    color: white;
+    width: 100%;
+    height: 55px;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    border: none; 
+    padding: 0 108px;
+    position: fixed;
+    font-size: 17 px;
+    font-family: helvetica neue, Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+
+}
+
+.menu a {
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+    padding: 0 38px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.banner {
+    background: url(https://bestschool.net.in/templates/purity_iii/images/bg.jpg);
+    width: 100%;
+    height: 540px;
+    background-size: cover;
+    background-position: center;
+    padding: 150px;
+}
+
+.banner h3 {
+    color: #fff;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 38px;
+}
+
+.banner h4 {
+    color: #fff;
+    padding-top: 14px;
+    font-size: 20px;
+    padding-bottom: 8px;
+}
+
+.banner input {
+    width: 600px;
+    height: 37px;
+    font-size: 17px;
+    background: #000000c4;
+    border: none;
+    outline: none;
+    color: white;
+    box-shadow: 1px 1px 1px blue;
+}
+
+.heading h2 {
+    padding-top: 80px;
+    color: #444;
+    font-size: 42px;
+    font-weight: 500;
+    padding-bottom: 14px;
+}
+
+.heading p {
+    color: #666;
+    font-size: 25px;
+    font-weight: 200;
+    padding-bottom: 80px;
+}
+
+.picture {
+
+    width: 357px;
+    height: 260px;
+    float: left;
+    margin: 20px;
+
+
+}
+
+.picture img {
+    width: 352px;
+    height: 240px;
+    padding: 3px;
+    margin-left: 78px;
+    border: 1px solid whitesmoke;
+
+}
+
+.picture h3 {
+    color: #fff;
+    text-align: center;
+    margin-top: -30px;
+    margin-left: 150px;
+
+}
+
+.button {
+    margin-left: 600px;
+    background-color: #e67a00;
+    border-radius: 24px;
+    font-size: 29px;
+    color: #fff;
+    height: 52px;
+    padding: 10px 30px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.para {
+    width: 100%;
+    height: 230px;
+    background-color: #eee;
+    margin-top: 45px;
+    margin-bottom: 80px;
+}
+
+.para p {
+    text-align: center;
+    font-style: italic;
+    font-size: 24px;
+    padding-top: 40px;
+}
+
+footer {
+    width: 100%;
+    height: 230px;
+    background-color: #eee;
+}
+
+footer a {
+    margin-left: 100px;
+    font-size: small;
+
+}
+
+footer p {
+    margin-left: 100px;
+    font-size: small;
+
+}
