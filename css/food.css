@@ -115,9 +115,9 @@ nav{
 .press p{ 
     font-size: 20px;
     word-spacing: 3px;
-    color: black;
+    color: white;
     letter-spacing: 2px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: prague;
     padding: 20px;
 }
 .press button{
@@ -153,9 +153,9 @@ nav{
 .team p{
     font-size: 20px;
     word-spacing: 3px;
-    color: black;
+    color: white;
     letter-spacing: 2px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: prague;
     padding: 20px;
 }
 .team button{
@@ -188,9 +188,9 @@ nav{
 .ContactUs p{
     font-size: 20px;
     word-spacing: 3px;
-    color: black;
+    color: white;
     letter-spacing: 2px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: prague;
     padding: 20px;
 }
 .ContactUs button{
@@ -206,7 +206,7 @@ nav{
 footer{
     background: black;
     width: 100%;
-    height: 400px;
+    height: 500px;
 
 }
 

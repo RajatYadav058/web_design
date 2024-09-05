@@ -20,6 +20,11 @@ nav {
     font-weight: lighter;
 
 }
+.logo-text a{
+    color: white;
+    text-decoration: none;
+    
+}
 
 .menu a {
     text-decoration: none;
